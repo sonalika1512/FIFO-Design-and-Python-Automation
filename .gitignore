@@ -1,0 +1,26 @@
+# Cadence simulation-generated files
+INCA_libs/
+**/INCA_libs/
+.simvision/
+**/.simvision/
+
+# Simulation history and logs
+irun.history
+**/irun.history
+irun.log
+**/irun.log
+
+# Waveform databases
+*.shm/
+*.trn
+*.dsn
+
+# Temporary files
+*.tmp
+*.bak
+*~
+*.swp
+
+# Python cache
+__pycache__/
+*.pyc
